@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#0a0a0a"/>
+  <text x="256" y="200" text-anchor="middle" font-size="120" font-weight="bold" fill="#ef4444" font-family="Arial, sans-serif">W40K</text>
+  <text x="256" y="320" text-anchor="middle" font-size="60" font-weight="bold" fill="#f59e0b" font-family="Arial, sans-serif">COMBAT</text>
+  <text x="256" y="390" text-anchor="middle" font-size="50" font-weight="bold" fill="#f59e0b" font-family="Arial, sans-serif">SIM</text>
+  <line x1="80" y1="230" x2="432" y2="230" stroke="#991b1b" stroke-width="3"/>
+</svg>
