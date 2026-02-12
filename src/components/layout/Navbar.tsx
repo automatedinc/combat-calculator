@@ -22,7 +22,7 @@ export function Navbar() {
           >
             <span className="text-red-500">&#9876;</span>
             <span>
-              W40K <span className="text-amber-400">Combat Sim</span>
+              Combat <span className="text-amber-400">Calc</span>
             </span>
           </Link>
 

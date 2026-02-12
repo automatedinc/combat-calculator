@@ -1,7 +1,7 @@
 {
-  "name": "W40K Combat Simulator",
-  "short_name": "W40K Sim",
-  "description": "Warhammer 40,000 10th Edition Combat Simulator",
+  "name": "Combat Calculator",
+  "short_name": "Combat Calc",
+  "description": "Tabletop wargame combat calculator",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0a",

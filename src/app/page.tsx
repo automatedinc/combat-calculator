@@ -6,9 +6,9 @@ export default function Home() {
       {/* Hero */}
       <div className="text-center space-y-6 mb-16">
         <h1 className="text-5xl md:text-6xl font-bold tracking-tight">
-          <span className="text-red-500">Warhammer 40K</span>
+          <span className="text-red-500">Combat</span>
           <br />
-          <span className="text-amber-400">Combat Simulator</span>
+          <span className="text-amber-400">Calculator</span>
         </h1>
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
           Simulate the full 10th Edition combat sequence. Select your units,

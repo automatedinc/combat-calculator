@@ -21,14 +21,14 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'W40K Combat Simulator',
+  title: 'Combat Calculator',
   description:
-    'Warhammer 40,000 10th Edition Combat Simulator — simulate hit rolls, wound rolls, saves, and damage allocation.',
+    'Tabletop wargame combat calculator — simulate hit rolls, wound rolls, saves, and damage allocation.',
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'W40K Sim',
+    title: 'Combat Calc',
   },
 };
 
